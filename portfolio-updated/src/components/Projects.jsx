@@ -11,7 +11,7 @@ export default function Projects() {
     <section className="projects" id="projects">
       <div className="projects-top">
         <div>
-          <p className="section-eyebrow">Selected work</p>
+          <p className="section-eyebrow">Selected projects</p>
           <h2 style={{ marginBottom: 0 }}>Things I've built.</h2>
         </div>
         <a href={CONFIG.github} target="_blank" rel="noreferrer"

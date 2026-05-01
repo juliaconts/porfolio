@@ -9,7 +9,7 @@ export default function Nav() {
       </a>
       <ul className="nav-links">
         <li><a href="#about">About</a></li>
-        <li><a href="#projects">Work</a></li>
+        <li><a href="#projects">Projects</a></li>
         <li>
           <a href={CONFIG.github} target="_blank" rel="noreferrer" className="nav-github">
             GitHub ↗
