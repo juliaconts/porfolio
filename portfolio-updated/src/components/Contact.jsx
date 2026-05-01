@@ -54,11 +54,11 @@ export default function Contact() {
             Let's connect
           </p>
           <h2>
-            Got a project<br />in mind? <em>Let's chat.</em>
+            Any questions<br />in mind?<br /><em>Let's chat.</em>
           </h2>
           <p className="contact-desc">
-            I'm always happy to talk — whether you have a clear brief or just a rough
-            idea. No pressure, just a friendly conversation.
+            I'm always happy to talk — whether you just have a question. 
+            No pressure, just a friendly conversation.
           </p>
           <div className="contact-links">
             <a href={`mailto:${CONFIG.email}`} className="contact-link">
