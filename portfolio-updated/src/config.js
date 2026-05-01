@@ -12,7 +12,7 @@ export const CONFIG = {
   location: "Western Visayas, Iloilo City",
   photo: profilePhoto,          // ← driven by the import above
   photo2: profilePhoto2,        // ← an optional second photo for more variety
-  bio1: `I’m a computer science student passionate about building practical web and mobile applications. 
+  bio1: `I’m Julia Louise M. Contreras, a computer science student passionate about building practical web and mobile applications. 
     I enjoy creating systems that solve real problems and continuously improving my skills 
     through hands-on projects.`,
 

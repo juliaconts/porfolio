@@ -30,7 +30,6 @@ const skillGroups = [
 ];
 
 const facts = [
-  { icon: "🙋‍♀️", text: "Full Name: Julia Louise M. Contreras" },
   { icon: "📖", text: "Course: Bachelor of Science in Computer Science" },
   { icon: "🏫", text: "School: University of the Philippines Visayas  " },
 ];
@@ -39,6 +38,8 @@ const organizations = [
   { role: "Vice President for External Affairs", name: "UPV Komsai.Org", period: "2025 - Present" },
   { role: "Vice Governor for Internal Affairs", name: "UPV Elektrons", period: "2025 - Present" },
   { role: "President", name: "UPV Badminton Club", period: "2024-2025" },
+  { role: "Honored Queen (President)", name: "Job's Daughters International", period: "2022" },
+
 ];
 
 function SkillBar({ name, pct, tech, animate }) {

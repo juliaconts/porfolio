@@ -8,7 +8,6 @@ export default function Hero() {
         <div className="hero-bg-text">PORTFOLIO</div>
 
         <div className="hero-wave">👋</div>
-        <p className="hero-intro">Hey there, I'm {CONFIG.name}</p>
         <h1>
           Hello,<br />
           I'm <em>{CONFIG.name.split(" ")[0]}.</em>
