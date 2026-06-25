@@ -99,9 +99,6 @@ export default function About() {
         <div className="about-left-col">
           {view === "personal" ? (
             <div className="animate-fade">
-              <div className="about-photo-wrap">
-                <img src={CONFIG.photo2} alt={CONFIG.name} className="about-photo" />
-              </div>
               <p className="section-eyebrow">A little about me</p>
               <h2>More than just a developer.</h2>
               <p className="about-text">{CONFIG.bio1}</p>

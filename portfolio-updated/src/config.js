@@ -32,7 +32,8 @@ export const CONFIG = {
       title: "FishLERS",
       desc: "Fisheries Laboratory Equipment Reservation System (FishLERS) is a laboratory management system for UPV College of Fisheries and Ocean Sciences Institute of Aquaculture's Multi-species Hatchery design to streamline the tracking, management, and utilization of laboratory equipment and resources.",
       stack: ["Firebase","Mongodb", "Express", "React", "Node.js"],
-      href: "https://github.com/juliaconts/CMSC129",   // live demo or repo
+      href: "https://fishlers.vercel.app/",
+      // href: "https://github.com/juliaconts/CMSC129",   // live demo or repo
     },
     {
       badge: "Mobile App",
